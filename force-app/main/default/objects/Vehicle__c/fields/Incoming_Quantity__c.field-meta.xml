@@ -1,8 +1,0 @@
-<CustomField>
-    <fullName>Incoming_Quantity__c</fullName>
-    <label>Incoming Quantity</label>
-    <type>Number</type>
-    <precision>10</precision>
-    <scale>0</scale>
-    <description>Vehicles en-route from producer</description>
-</CustomField>

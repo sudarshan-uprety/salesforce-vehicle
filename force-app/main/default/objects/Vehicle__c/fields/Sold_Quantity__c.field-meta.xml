@@ -1,8 +1,0 @@
-<CustomField>
-    <fullName>Sold_Quantity__c</fullName>
-    <label>Sold Quantity</label>
-    <type>Number</type>
-    <precision>10</precision>
-    <scale>0</scale>
-    <defaultValue>0</defaultValue>
-</CustomField>

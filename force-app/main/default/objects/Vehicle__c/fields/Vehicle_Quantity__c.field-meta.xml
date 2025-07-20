@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>Quantity__c</fullName>
-    <label>Quantity</label>
+    <fullName>Vehicle_Quantity__c</fullName>
+    <label>Total Vehicles</label>
     <type>Number</type>
     <precision>6</precision>
-    <scale>2</scale>
+    <scale>0</scale>
     <required>true</required>
+    <description>Total vehicles in inventory</description>
 </CustomField>
