@@ -8,10 +8,10 @@
         <valueSetDefinition>
             <value>
                 <fullName>Pending</fullName>
-                <default>true</default>
             </value>
             <value>
                 <fullName>Confirmed</fullName>
+                <default>true</default>
             </value>
             <value>
                 <fullName>Cancelled</fullName>

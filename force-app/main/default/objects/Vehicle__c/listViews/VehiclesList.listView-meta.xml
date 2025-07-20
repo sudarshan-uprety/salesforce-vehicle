@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ListView xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>AllVehicles</fullName>
+    <fullName>VehiclesList</fullName>
     <columns>NAME</columns>
     <columns>Vehicle_Quantity__c</columns>
     <columns>Booked_Quantity__c</columns>
