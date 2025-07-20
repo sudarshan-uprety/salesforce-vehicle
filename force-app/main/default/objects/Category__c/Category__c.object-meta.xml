@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Category</label>
+    <pluralLabel>Categories</pluralLabel>
+    <nameField>
+        <label>Category Name</label>
+        <type>Text</type>
+        <required>true</required>
+    </nameField>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <sharingModel>ReadWrite</sharingModel>
+    <description>Stores vehicle categories (e.g., 2-Wheeler, 4-Wheeler)</description>
+</CustomObject>

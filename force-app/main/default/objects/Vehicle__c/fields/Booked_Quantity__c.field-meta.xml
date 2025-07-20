@@ -1,0 +1,8 @@
+<CustomField>
+    <fullName>Booked_Quantity__c</fullName>
+    <label>Booked Quantity</label>
+    <type>Number</type>
+    <precision>10</precision>
+    <scale>0</scale>
+    <description>Vehicles currently reserved by customers</description>
+</CustomField>
